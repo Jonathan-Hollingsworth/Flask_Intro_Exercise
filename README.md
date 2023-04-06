@@ -10,3 +10,4 @@ Calculates the search queries [a] and [b] using the appropriate method (specifie
 - /math/sub?a=[number]&b=[number]
 - /math/mult?a=[number]&b=[number]
 - /math/div?a=[number]&b=[number]
+(The result will be shown on the page)
